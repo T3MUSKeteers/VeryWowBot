@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeryWowBot", "VeryWowBot\VeryWowBot.csproj", "{49F2719B-A0DD-4332-B65A-80A441B899AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49F2719B-A0DD-4332-B65A-80A441B899AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49F2719B-A0DD-4332-B65A-80A441B899AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49F2719B-A0DD-4332-B65A-80A441B899AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49F2719B-A0DD-4332-B65A-80A441B899AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62FAC57A-679D-4F89-87B4-A9E3B102A171}
+	EndGlobalSection
+EndGlobal
